@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214254547668",
+    "project_id": "uber-clone-app-be398",
+    "storage_bucket": "uber-clone-app-be398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214254547668:android:0dad7e0fdf67e4fa054141",
+        "android_client_info": {
+          "package_name": "com.alemsbaja.ubercloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214254547668-uapl49s66615fdk6qocl34pcsuuakfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Lk4l0DSSAQHbW0tOM4wtJCiPMSvIfgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214254547668-uapl49s66615fdk6qocl34pcsuuakfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
